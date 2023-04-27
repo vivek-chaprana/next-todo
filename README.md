@@ -2,8 +2,8 @@
 
 This is a simple todo application created using:
 
-- _NextJS_ : For framework
-- _Firebase_ : For Authentication and Database.
+- **NextJS** : For framework
+- **Firebase** : For Authentication and Database.
 
 Usage :
 
